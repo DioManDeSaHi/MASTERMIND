@@ -60,11 +60,11 @@ def mastermind():
 
                 game_iterator = 0
 
-                '''replay_choice = input("Do you want to play again ?")
+                replay_choice = input("Do you want to play again ?")
 
 
                 if (replay_choice == "no" or replay_choice == "NO" or replay_choice == "No"):
-                    replay = False'''
+                    replay = False
 
             elif (choice == "leave"):
                 print("You leave the game")
